@@ -1,4 +1,4 @@
-// Passage Counter
+// Create a function which calculates the time to read a text in seconds, if it takes over 60 seconds to read a passage return the time to minutes
 
 let seconds = 0;
 let convertIntoMinitus = (sec) => {

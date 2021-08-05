@@ -1,5 +1,20 @@
-// JavaScript Functional Programming
-// /(Hint – use array functions like map, filter, reduce, sort, some, every, forEach etc ).
+// Try to completely solve each part in as little lines as possible using functions. 
+// (Hint – use array functions like map, filter, reduce, sort, some, every, forEach etc ).
+// const coders = [
+//   { name: 'John', age: 23, gender: 'm',  admin: false  },
+//   { name: ‘Jane’, age: 20, gender: 'f',  admin: true  },
+//   { name: ‘James’, age: 60, gender: 'm',  admin: true  },
+//   { name: ‘Jack’, age: 35, gender: 'm',  admin: true  },
+//   { name: ‘Jini’ , age: 30, gender: 'f',  admin: false }
+// ]
+// Write the code to achieve below -
+// - Find all coders older than 24
+// - Find the total age of all coders
+// - List all female coders
+// - List all admin coders in ascending order
+// - Sort all coders by age
+// - Find the total age of male coders under 25
+
 
 const coders = [
   { name: "John", age: 23, gender: "m", admin: false },
